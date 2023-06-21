@@ -1,6 +1,12 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "Test",
+        "text": "Test",
+        "note_id": "69dccf9a-d52d-478e-bbd6-1321a62f2a2a"
+    },
+    {
+        "title": "Danny",
+        "text": "Is a pretty cool guy",
+        "note_id": "b5f93bed-6275-40b5-b34b-5c2c37d74c6c"
     }
 ]
