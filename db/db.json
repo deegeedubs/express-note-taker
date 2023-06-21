@@ -1,12 +1,12 @@
 [
     {
-        "title": "Test",
-        "text": "Test",
-        "note_id": "69dccf9a-d52d-478e-bbd6-1321a62f2a2a"
+        "title": "Learn Express",
+        "text": "Express is very important to learn.",
+        "id": "9ce96ba9-c414-4c0e-921b-5f4b94983ef2"
     },
     {
-        "title": "Danny",
-        "text": "Is a pretty cool guy",
-        "note_id": "b5f93bed-6275-40b5-b34b-5c2c37d74c6c"
+        "title": "GET, POST, DELETE",
+        "text": "These require JSON strings, so stringify your object first!",
+        "id": "8ba99ffd-3a87-4b0f-bb82-bfd570babf8a"
     }
 ]
