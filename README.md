@@ -17,7 +17,9 @@ Take notes and save them on this web application. Also, delete notes when they a
 
 ## Resources 
 
-Picture of deployed site:
+Github Repository: https://github.com/deegeedubs/express-note-taker
+
+Deployed Website on Heroku:  [Pending]
 
 
 ## Summary 
